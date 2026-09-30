@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(226, 189, 189);
+    font-family: Arial, sans-serif;
+}
+.network-card {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.profile-image {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.projects { max-width: 100%; 
+  margin-top: 8px;
+    margin-bottom: 8px; 
+    border-radius: 10px; }
+.travel   { max-width: 100%; 
+  margin-top: 8px;
+    margin-bottom: 8px; 
+    border-radius: 10px; } 
+.careers { max-width: 100%; 
+  margin-top: 8px;
+    margin-bottom: 8px; 
+    border-radius: 10px; }
+.card-image { 
+    width: 250px;
+    height: 280px;
+    object-fit: contain;
+    border-radius: 10px; }
+.mini-course { 
+    width: 250px;
+    height: 280px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+.repo {
+    width: 250px;
+    height: 280px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+.icon {
+    width: 200px;
+    height: 280px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+h2 {
+    color: rgb(64, 20, 20);
+}
+a {
+    text-decoration: none;
+}
